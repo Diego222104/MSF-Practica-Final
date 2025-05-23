@@ -5,7 +5,7 @@ Proyecto Final: Sistema Respiratorio [Asma]
 Torres Velez Diego Raul
 Diego David Villaseñor Lopez
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210431@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210429@tectijuana.edu.mx, L22210431@tectijuana.edu.mx
 
 ## Objetivos general
 Objetivo.
