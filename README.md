@@ -1,10 +1,11 @@
-Proyecto Final: Sistema Respiratorio [Asma]
-# Modelado de Sistemas Fisiológicos. Proyecto Final: Sistema Respiratorio [Torres22210429]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Diego222104/MSF-Practica-Final)
+
+# Modelado de Sistemas Fisiológicos. Proyecto Final: Sistema Respiratorio (Asma) [Torres22210429, Villaseñor22210431]
 
 ## Autor
-Torres Velez Diego Raul, Diego David Villaseñor Lopez
+Torres Velez Diego Raul; Diego David Villaseñor Lopez.
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210429@tectijuana.edu.mx, L22210431@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210429@tectijuana.edu.mx; L22210431@tectijuana.edu.mx.
 
 ## Objetivos general
 Objetivo.
