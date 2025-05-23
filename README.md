@@ -2,8 +2,7 @@ Proyecto Final: Sistema Respiratorio [Asma]
 # Modelado de Sistemas Fisiológicos. Proyecto Final: Sistema Respiratorio [Torres22210429]
 
 ## Autor
-Torres Velez Diego Raul
-Diego David Villaseñor Lopez
+Torres Velez Diego Raul, Diego David Villaseñor Lopez
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210429@tectijuana.edu.mx, L22210431@tectijuana.edu.mx
 
