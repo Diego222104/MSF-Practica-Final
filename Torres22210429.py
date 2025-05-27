@@ -51,18 +51,17 @@ rojo= [1,0,0]
 amarillo=[1,.7,0]
 azul= [.1,.5,.7]
 
-
 def plotsignals(u,sysC,sysS,sysPI,signal):
     #fig=plt.figure()
     
     ts,Vs=ctrl.forced_response(sysS,t,u,x0)
-    plt.plot(ts,Vs, '--', color = azul, label = '$V_t(x): caso$')
+    plt.plot(ts,Vs, '-', color = azul, label = '$V_t(x): caso$')
         
     ts,Ve=ctrl.forced_response(sysC,t,u,x0)
     plt.plot(ts,Ve, '-', color = rojo, label = '$V_S(y): control$')
         
     ts,VPI=ctrl.forced_response(sysC,t,u,x0)
-    plt.plot(ts,VPI, ':', color = morado, label = '$V_pi(z): Tratamiento$')
+    plt.plot(ts,VPI, '--', color = morado, label = '$V_pi(z): Tratamiento$')
     
     plt.grid(False)
     plt.xlim(0,10)
@@ -74,8 +73,6 @@ def plotsignals(u,sysC,sysS,sysPI,signal):
     plt.legend(bbox_to_anchor=(0.5,-0.3),loc='center',ncol=4, fontsize=8,frameon=False)
     plt.show()
   
-
-
 def tratamiento (sysx): 
     Cr=10E-6
     Ki=16.389010792529
